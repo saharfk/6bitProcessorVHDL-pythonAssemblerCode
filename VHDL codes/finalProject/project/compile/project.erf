@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: C:\Users\Asus\Desktop\CoDesign_992_Project_SaharFkhrieh_ParinazMellatdoust\VHDL codes\finalProject\project\src\TestBench\cpu_with_control_TB.vhd" 
+MESSAGE "Compile Entity "cpu_with_control_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "cpu_with_control_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_cpu_with_control"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]" 

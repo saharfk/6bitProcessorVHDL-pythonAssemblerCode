@@ -1,0 +1,75 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=project
+
+[Library]
+project=.\project.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+project=.
+Active_lib=
+
+[Groups]
+TestBench=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=cpu_with_control_tb|testbench_for_cpu_with_control|1 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/ALU.vhd=-1
+/IR.vhd=-1
+/PC.vhd=-1
+/memory.vhd=-1
+/REGS.vhd=-1
+/cpu_with_control.vhd=-1
+/zarb.asdb=-1
+/zarb.awc=-1
+/jam.asdb=-1
+/jam.awc=-1
+TestBench/cpu_with_control_TB.vhd=-1
+TestBench/cpu_with_control_TB_runtest.do=-1
+
+[Files.Data]
+.\src\ALU.vhd=VHDL Source Code
+.\src\IR.vhd=VHDL Source Code
+.\src\PC.vhd=VHDL Source Code
+.\src\memory.vhd=VHDL Source Code
+.\src\REGS.vhd=VHDL Source Code
+.\src\cpu_with_control.vhd=VHDL Source Code
+.\src\zarb.asdb=Accelerated Waveform File
+.\src\zarb.awc=Accelerated Waveform Configuration
+.\src\jam.asdb=Accelerated Waveform File
+.\src\jam.awc=Accelerated Waveform Configuration
+.\src\TestBench\cpu_with_control_TB.vhd=VHDL Test Bench
+.\src\TestBench\cpu_with_control_TB_runtest.do=Macro
+

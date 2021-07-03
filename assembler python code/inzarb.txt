@@ -1,0 +1,10 @@
+load R0, 0
+load R1, 7
+load R2, 1
+load R3, 8
+jnz R3, 11
+halt
+sub R3, R2
+add R0, R1
+jnz R3, 9
+halt

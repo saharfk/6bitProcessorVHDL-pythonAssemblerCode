@@ -1,0 +1,7 @@
+.\src\ALU.vhd
+.\src\IR.vhd
+.\src\PC.vhd
+.\src\memory.vhd
+.\src\REGS.vhd
+.\src\cpu_with_control.vhd
+.\src\TestBench\cpu_with_control_TB.vhd

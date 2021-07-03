@@ -1,0 +1,3 @@
+load R0, 5
+load R1, 3
+add R0, R1

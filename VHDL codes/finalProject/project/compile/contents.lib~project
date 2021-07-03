@@ -1,0 +1,16 @@
+378
+~E 1 "./src/IR.vhd" 4 ir
+~A 1 "./src/IR.vhd" 12 ir
+~E 1 "./src/cpu_with_control.vhd" 6 cpu_with_control
+~A 1 "./src/cpu_with_control.vhd" 13 cpu_with_control
+~E 1 "./src/ALU.vhd" 4 alu
+~A 1 "./src/ALU.vhd" 10 alu
+~E 1 "./src/TestBench/cpu_with_control_TB.vhd" 8 cpu_with_control_tb
+~A 1 "./src/TestBench/cpu_with_control_TB.vhd" 11 tb_architecture
+~E 1 "./src/PC.vhd" 5 pc
+~A 1 "./src/PC.vhd" 13 pc
+~E 1 "./src/memory.vhd" 5 memory
+~A 1 "./src/memory.vhd" 13 memory
+~E 1 "./src/REGS.vhd" 4 regs
+~A 1 "./src/REGS.vhd" 13 regs
+~C 1 "./src/TestBench/cpu_with_control_TB.vhd" 62 testbench_for_cpu_with_control
